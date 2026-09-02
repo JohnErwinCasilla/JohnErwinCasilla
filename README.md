@@ -5,7 +5,7 @@ I thrive on tackling complex problems and crafting elegant solutions. My journey
 
 ### Education 📚
 - **BS Information Technology**
-  - *New Era University* 2022 - Present
+  - *New Era University* 2022 - 2026
 
 ### Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=791E7C5206B9DC5737DFC9AFDC7F177AF66EADA418C484545B3F49F8D7FDAE1D&fbclid=IwAR3RPCKAK_2fLIIdz8rrsn3EfEVv741WppsVczPM-AUFWDB9bb7olwuQEKA)
