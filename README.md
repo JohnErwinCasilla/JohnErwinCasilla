@@ -10,8 +10,6 @@ I thrive on tackling complex problems and crafting elegant solutions. Having com
   * Engineered RESTful APIs with .NET Core & C#, and deployed full-stack modules using Laravel and Vue.js.
 * **iNEUit – AI-Powered Gamified English Learning App**
   * Developed a cross-platform mobile app using React Native, Expo, and Firebase, integrating a Llama 3 AI chatbot and AssemblyAI voice recognition for real-time tutoring.
-* **Dynamic Event Attendance Logging Platform** 
-  * Built a reusable administrative platform utilizing Laravel Herd, NativePHP, and Supabase.
 
 ### 🛠️ Tech Stack & Tools
 **Frontend & Mobile:** React Native, Expo, Vue.js, React JS (TSX), Tailwind CSS  
